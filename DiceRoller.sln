@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiceRoller", "DiceRoller\DiceRoller.vcxproj", "{60024486-44CF-4323-BBAD-FD9FA941183F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Debug|x64.ActiveCfg = Debug|x64
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Debug|x64.Build.0 = Debug|x64
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Debug|x86.ActiveCfg = Debug|Win32
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Debug|x86.Build.0 = Debug|Win32
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Release|x64.ActiveCfg = Release|x64
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Release|x64.Build.0 = Release|x64
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Release|x86.ActiveCfg = Release|Win32
+		{60024486-44CF-4323-BBAD-FD9FA941183F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6274FB2C-FA41-443A-A3C1-8A209C061E17}
+	EndGlobalSection
+EndGlobal
